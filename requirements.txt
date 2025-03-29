@@ -24,3 +24,4 @@ jsonschema==4.20.0
 Pygments==2.17.2
 markdown-it-py==3.0.0
 seaborn==0.13.0
+gower==0.1.2
